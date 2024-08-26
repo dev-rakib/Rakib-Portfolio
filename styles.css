@@ -254,7 +254,7 @@ span{
 
 @keyframes words{
     0%, 20%{
-        content: "Web Developer";
+        content: "Developer";
     }
     21%, 40%{
         content: "Student";
